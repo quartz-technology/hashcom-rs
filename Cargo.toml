@@ -1,6 +1,6 @@
 [package]
 name = "hashcom-rs"
-version = "0.1.0"
+version = "0.2.0"
 authors = ["Luca Georges François <luca@quartz.technology>"]
 description = "A fast, minimal but yet extensible framework for building and using hash commitment schemes"
 repository = "https://github.com/quartz-technology/hashcom-rs"
