@@ -1,7 +1,7 @@
 # <h1 align="center"> hashcom-rs </h1>
 
 <p align="center">
-    <img src="./.github/assets/COVER.PNG" width="400" alt="A DALL-E representation of a 
+    <img src="https://github.com/quartz-technology/hashcom-rs/blob/main/.github/assets/COVER.PNG" width="400" alt="A DALL-E representation of a 
 photo of a computer circuit in cyberpunk style with a dark theme">
 </p>
 
