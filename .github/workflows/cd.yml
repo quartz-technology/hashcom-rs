@@ -1,12 +1,10 @@
 name: "CD"
 
-# Only triggers when there's a tag push on the main branch.
+# Only triggers when there's a tag push.
 on:
   push:
     tags:
       - "v*.*.*"
-    branches:
-      - main
 
 env:
   CARGO_TERM_COLOR: always
