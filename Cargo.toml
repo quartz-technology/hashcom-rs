@@ -1,0 +1,16 @@
+[package]
+name = "hashcom-rs"
+version = "0.1.0"
+authors = ["Luca Georges François <luca@quartz.technology>"]
+description = "A fast, minimal but yet extensible framework for building and using hash commitment schemes"
+repository = "https://github.com/quartz-technology/hashcom-rs"
+license-file = "LICENSE"
+keywords = ["hash", "commitment-schemes", "cryptography", "library"]
+categories = ["cryptography"]
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+bincode = "1.3.3"
+serde = "1.0.150"
